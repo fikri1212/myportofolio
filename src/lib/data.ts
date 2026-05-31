@@ -5,7 +5,7 @@ export const siteConfig = {
   phone: "+6281283376011", // Ganti dengan nomor WhatsApp asli
   github: "https://github.com/fikririzky", // Ganti dengan GitHub asli
   linkedin: "https://linkedin.com/in/fikririzky", // Ganti dengan LinkedIn asli
-  cvUrl: "/CV-ATS-Fikri-Rizky-Candra-SKom.pdf", // Letakkan file CV di folder public/
+  cvUrl: "/CV-ATS-FIkri-RIzky-Candra-S.Kom.pdf", // Letakkan file CV di folder public/
   location: "Padang Panjang, Sumatera Barat, Indonesia",
   university: "Universitas Putra Indonesia YPTK Padang",
   major: "Teknik Informatika (S1)",
