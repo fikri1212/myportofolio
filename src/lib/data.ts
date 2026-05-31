@@ -114,7 +114,7 @@ export const experiences = [
       "Merancang dan mengimplementasikan sistem klasifikasi menggunakan Algoritma Naive Bayes. Melakukan preprocessing data, training model, evaluasi performa, dan integrasi ke dalam aplikasi web berbasis PHP dan MySQL.",
     technologies: ["PHP", "MySQL", "Naive Bayes", "Data Mining"],
     type: "project",
-    year: "2024",
+    year: "2025-2026",
   },
   {
     title: "Pengembangan Aplikasi Web Berbasis PHP dan MySQL",
@@ -122,7 +122,7 @@ export const experiences = [
       "Membangun aplikasi web full-stack dengan fitur manajemen data lengkap. Menerapkan best practices dalam pengembangan web termasuk validasi input, keamanan SQL injection prevention, dan optimasi query database.",
     technologies: ["PHP", "MySQL", "JavaScript", "HTML/CSS"],
     type: "project",
-    year: "2023",
+    year: "2025",
   },
   {
     title: "Analisis dan Pengolahan Data Menggunakan Python",
@@ -130,7 +130,7 @@ export const experiences = [
       "Melakukan eksplorasi data, pembersihan data, analisis statistik, dan visualisasi menggunakan library Python seperti Pandas, NumPy, Matplotlib, dan Scikit-learn untuk menghasilkan insight yang bermakna.",
     technologies: ["Python", "Pandas", "NumPy", "Matplotlib", "Scikit-learn"],
     type: "project",
-    year: "2023",
+    year: "2025",
   },
 ];
 
