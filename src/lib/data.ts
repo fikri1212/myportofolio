@@ -1,7 +1,7 @@
 export const siteConfig = {
   name: "Fikri Rizky Candra, S.Kom",
   title: "Fresh Graduate Teknik Informatika | Data Science",
-  email: "fikririzky12@email.com", // Ganti dengan email asli
+  email: "fikririzky12@gmail.com", // Ganti dengan email asli
   phone: "+6281283376011", // Ganti dengan nomor WhatsApp asli
   github: "https://github.com/fikririzky", // Ganti dengan GitHub asli
   linkedin: "https://linkedin.com/in/fikririzky", // Ganti dengan LinkedIn asli
